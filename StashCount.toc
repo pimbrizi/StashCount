@@ -1,0 +1,8 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: Stash Count
+## Notes: Shows how many of an item you have across all your characters, their personal banks, and the Warband Bank, right in the item tooltip.
+## Author: Patrick
+## Version: 1.0.0
+## SavedVariables: StashCountDB
+
+StashCount.lua
